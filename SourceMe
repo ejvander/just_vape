@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+export PUTTY_DIR='C:\Users\Erics\Desktop\'
+export COM_PORT='COM8'
