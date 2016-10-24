@@ -10,6 +10,8 @@ PUTTY_DIR # This is the directory that the putty.exe file is in
 COM_PORT  # This is the port that arduino is connected to
           # This is only needed if you use the make upload command
 
+Then run "source SourceMe"
+
 In have included a makefile that will run the compilation and upload procedure.
 ===============================================================================
 make clean # This will delete the previoius build directory
